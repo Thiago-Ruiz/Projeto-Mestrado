@@ -1,0 +1,36 @@
+# =========================
+# IGNORAR PASTAS DE DADOS
+# =========================
+
+Corpus/Falhas/
+Corpus/json/
+Corpus/markdown/
+Corpus/pdfs/
+
+# =========================
+# IGNORAR ARQUIVOS GERADOS
+# =========================
+
+*.json
+*.pdf
+*.md
+
+# =========================
+# JUPYTER
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+# PYTHON
+# =========================
+
+__pycache__/
+*.pyc
+
+# =========================
+# MANTER NOTEBOOKS E CSV
+# =========================
+
+!*.ipynb
+!*.csv
