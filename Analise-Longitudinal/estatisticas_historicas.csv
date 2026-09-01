@@ -1,0 +1,201 @@
+,métrica,media_hist,desvio_hist,n_hist,Grupo
+ adjective_ratio, adjective_ratio,0.4667493314255002,9.9645948084871,35,Informações Morfossintáticas de Palavras
+adverbs,adverbs,0.7862058370974075,15.525138508757678,35,Informações Morfossintáticas de Palavras
+content_words,content_words,-0.0695673887941574,0.9800800222321376,35,Informações Morfossintáticas de Palavras
+flesch,flesch,8.865707174919566,38.53074761751431,35,Índices de Leiturabilidade
+function_words,function_words,0.12131517346256933,1.4465850361919104,35,Informações Morfossintáticas de Palavras
+sentences_per_paragraph,sentences_per_paragraph,1.8244074994356247,8.09309625643019,35,Medidas Descritivas
+syllables_per_content_word,syllables_per_content_word,-0.10488223761721048,1.2527375975220625,35,Medidas Descritivas
+words_per_sentence,words_per_sentence,0.3860287570762397,4.763506421166356,35,Medidas Descritivas
+noun_ratio,noun_ratio,-0.06555815480337067,2.421476446811033,35,Informações Morfossintáticas de Palavras
+paragraphs,paragraphs,0.0011642550474176363,0.4891206678876312,35,Medidas Descritivas
+sentences,sentences,1.8235629729429983,8.082450975052462,35,Medidas Descritivas
+words,words,2.2294203773347325,9.057226592849334,35,Medidas Descritivas
+pronoun_ratio,pronoun_ratio,0.671275155087753,9.27356133115588,35,Informações Morfossintáticas de Palavras
+verbs,verbs,0.08418170170830103,3.6999008996010905,35,Informações Morfossintáticas de Palavras
+logic_operators,logic_operators,0.2751292319977909,8.393742529641285,35,Conectivos
+and_ratio,and_ratio,0.576013478793376,10.711640006901963,35,Conectivos
+if_ratio,if_ratio,22.87610218423782,131.76916293014366,26,Conectivos
+or_ratio,or_ratio,19.54155979263124,83.59885527790017,34,Conectivos
+negation_ratio,negation_ratio,10.222996438933565,77.525465724072,34,Conectivos
+cw_freq,cw_freq,1.3276168889521194,20.738782063503095,35,Frequência de Palavras
+cw_freq_brwac,cw_freq_brwac,0.04316480582625907,2.292504768341094,35,Frequência de Palavras
+cw_freq_bra,cw_freq_bra,-0.0063245143291634776,2.2207415051851354,35,Frequência de Palavras
+min_cw_freq,min_cw_freq,8.899506865508922,49.43853165023479,35,Frequência de Palavras
+min_cw_freq_brwac,min_cw_freq_brwac,2.0403509620434432,18.55489994220188,35,Frequência de Palavras
+min_freq_brwac,min_freq_brwac,1.870425157039794,17.96171972630417,35,Frequência de Palavras
+min_cw_freq_bra,min_cw_freq_bra,0.7130304047153352,12.401280798403665,35,Frequência de Palavras
+min_freq_bra,min_freq_bra,0.5844663280199667,11.696434442140541,35,Frequência de Palavras
+freq_brwac,freq_brwac,0.018370017667289153,1.4510864761247217,35,Frequência de Palavras
+freq_bra,freq_bra,-0.003637363407740235,1.3519278023581391,35,Frequência de Palavras
+hypernyms_verbs,hypernyms_verbs,0.4997291099356954,7.338191536213398,35,Informações Semânticas de Palavras
+brunet,brunet,0.4207581899619209,1.952365375882285,35,Índices de Leiturabilidade
+honore,honore,-0.09344545628667143,7.3017499141368445,35,Índices de Leiturabilidade
+personal_pronouns,personal_pronouns,15.537587894360112,73.36471725039117,34,Informações Morfossintáticas de Palavras
+ttr,ttr,-0.2016911461471128,1.7658308703725185,35,Diversidade Lexical
+conn_ratio,conn_ratio,0.43303689252645555,4.1863642780465415,35,Conectivos
+add_neg_conn_ratio,add_neg_conn_ratio,12.247220294758764,85.2665303227825,33,Conectivos
+add_pos_conn_ratio,add_pos_conn_ratio,0.7006026506606675,8.733327929380392,35,Conectivos
+cau_neg_conn_ratio,cau_neg_conn_ratio,6.555885534617898,50.75764553158427,33,Conectivos
+cau_pos_conn_ratio,cau_pos_conn_ratio,0.6357713536318703,5.725433733040682,35,Conectivos
+log_neg_conn_ratio,log_neg_conn_ratio,10.530153458916084,53.44745407628655,34,Conectivos
+log_pos_conn_ratio,log_pos_conn_ratio,0.575902259702712,9.40459626331175,35,Conectivos
+tmp_neg_conn_ratio,tmp_neg_conn_ratio,3.7319722575619707,188.26985934411013,8,Léxico Temporal
+tmp_pos_conn_ratio,tmp_pos_conn_ratio,3.1485887772669643,25.567996340208108,35,Léxico Temporal
+adjectives_ambiguity,adjectives_ambiguity,0.8187675356444859,11.323598104504665,35,Informações Semânticas de Palavras
+adverbs_ambiguity,adverbs_ambiguity,2.2386379549347106,15.5603499504133,35,Informações Semânticas de Palavras
+nouns_ambiguity,nouns_ambiguity,0.12136612301795673,5.2135464415337465,35,Informações Semânticas de Palavras
+verbs_ambiguity,verbs_ambiguity,-0.31011947675007495,5.52661510875026,35,Informações Semânticas de Palavras
+yngve,yngve,0.26100986390911024,2.0611344117072172,35,Complexidade Sintática
+frazier,frazier,0.15216204653383147,1.9780883378408982,35,Complexidade Sintática
+dep_distance,dep_distance,0.515081202117259,6.8213082311263795,35,Complexidade Sintática
+cross_entropy,cross_entropy,0.1515667213525153,2.4384727477644677,35,Coesão Semântica
+content_density,content_density,-0.13942147895196497,3.1427285675046117,35,Diversidade Lexical
+words_before_main_verb,words_before_main_verb,1.610051073274164,16.85729960060893,35,Complexidade Sintática
+adjacent_refs,adjacent_refs,34.777092178078725,112.86754285820763,34,Coesão Referencial
+anaphoric_refs,anaphoric_refs,17.105272148112213,78.94272473719649,34,Coesão Referencial
+adj_arg_ovl,adj_arg_ovl,2.9676238628220815,21.040830247419322,35,Coesão Referencial
+arg_ovl,arg_ovl,2.4018198191095412,18.366452956420016,35,Coesão Referencial
+adj_stem_ovl,adj_stem_ovl,1.8994643141859475,14.425839915532128,35,Coesão Referencial
+stem_ovl,stem_ovl,1.5762157823651237,14.113633012381381,35,Coesão Referencial
+adj_cw_ovl,adj_cw_ovl,2.6377387591175956,17.961251559112277,35,Coesão Referencial
+lsa_adj_mean,lsa_adj_mean,0.480231037291948,3.662155629792716,35,Coesão Semântica
+lsa_adj_std,lsa_adj_std,4.310220396792457,17.48829579546218,35,Coesão Semântica
+lsa_all_mean,lsa_all_mean,0.4492929197685222,3.655532896908896,35,Coesão Semântica
+lsa_all_std,lsa_all_std,3.4234930979320484,13.158499536887966,35,Coesão Semântica
+lsa_paragraph_mean,lsa_paragraph_mean,84.43706420000127,320.14679115791523,4,Coesão Semântica
+lsa_paragraph_std,lsa_paragraph_std,-100.0,,1,Coesão Semântica
+lsa_givenness_mean,lsa_givenness_mean,0.5018374856843577,3.55909826065916,35,Coesão Semântica
+lsa_givenness_std,lsa_givenness_std,3.9865529566888087,16.316789926835572,35,Coesão Semântica
+lsa_span_mean,lsa_span_mean,0.512697198906031,3.532211958675904,35,Coesão Semântica
+lsa_span_std,lsa_span_std,4.051463208840786,17.08612245555549,35,Coesão Semântica
+first_person_pronouns,first_person_pronouns,-5.937043306538363,66.94472144448687,29,Informações Morfossintáticas de Palavras
+second_person_pronouns,second_person_pronouns,-100.0,0.0,2,Informações Morfossintáticas de Palavras
+simple_word_ratio,simple_word_ratio,-0.02134579503226409,2.7053351053493553,35,Simplicidade Textual
+third_person_pronouns,third_person_pronouns,10.420987693227472,60.95288913904264,34,Informações Morfossintáticas de Palavras
+adjunct_per_clause,adjunct_per_clause,0.6693599076193685,9.485921140061198,35,Complexidade Sintática
+apposition_per_clause,apposition_per_clause,9.75614884711827,47.840525516814886,35,Complexidade Sintática
+aux_plus_PCP_per_sentence,aux_plus_PCP_per_sentence,0.7467411062423157,17.197069672077323,35,Léxico Temporal
+clauses_per_sentence,clauses_per_sentence,0.4792350351693035,5.783021462614417,35,Complexidade Sintática
+coordinate_conjunctions_per_clauses,coordinate_conjunctions_per_clauses,0.6127862030098135,12.919185040740594,35,Complexidade Sintática
+ratio_coordinate_conjunctions,ratio_coordinate_conjunctions,-0.05508169392460392,4.829217665877067,35,Complexidade Sintática
+first_person_possessive_pronouns,first_person_possessive_pronouns,35.783981043157816,115.98771003902966,32,Informações Morfossintáticas de Palavras
+gerund_verbs,gerund_verbs,2.5078245076197763,21.867628201436478,35,Densidade de Padrões Sintáticos
+infinitive_verbs,infinitive_verbs,1.769431731014423,12.008537919478664,35,Informações Morfossintáticas de Palavras
+inflected_verbs,inflected_verbs,0.25195870016400235,5.076003250474558,35,Informações Morfossintáticas de Palavras
+non-inflected_verbs,non-inflected_verbs,-0.02182848930531595,4.709100455125659,35,Informações Morfossintáticas de Palavras
+participle_verbs,participle_verbs,-0.6717650916295613,7.391569709801367,35,Léxico Temporal
+passive_ratio,passive_ratio,-0.17105872068863467,16.420732893555215,35,Complexidade Sintática
+prepositions_per_clause,prepositions_per_clause,-0.10256012858671522,5.654013092430902,35,Informações Morfossintáticas de Palavras
+prepositions_per_sentence,prepositions_per_sentence,0.3473835213406038,5.544426098046403,35,Informações Morfossintáticas de Palavras
+relative_clauses,relative_clauses,1.6397906457557214,16.484033728705075,35,Complexidade Sintática
+second_person_possessive_pronouns,second_person_possessive_pronouns,,,0,Informações Morfossintáticas de Palavras
+sentences_with_five_clauses,sentences_with_five_clauses,5.168768814947295,24.254126680413194,35,Complexidade Sintática
+sentences_with_four_clauses,sentences_with_four_clauses,6.641365339090271,45.50680069046967,35,Complexidade Sintática
+sentences_with_one_clause,sentences_with_one_clause,1.0555781900277972,22.343695430975668,35,Complexidade Sintática
+sentences_with_seven_more_clauses,sentences_with_seven_more_clauses,54.144222697602125,214.6881225379769,34,Complexidade Sintática
+sentences_with_six_clauses,sentences_with_six_clauses,8.2915405273288,36.58525726611265,35,Complexidade Sintática
+sentences_with_three_clauses,sentences_with_three_clauses,0.3467601018974983,13.920059409122542,35,Complexidade Sintática
+sentences_with_two_clauses,sentences_with_two_clauses,0.5307098361252685,11.372841221129715,35,Complexidade Sintática
+sentences_with_zero_clause,sentences_with_zero_clause,27.378616799819238,127.67135911279426,35,Complexidade Sintática
+ratio_subordinate_conjunctions,ratio_subordinate_conjunctions,9.290425131786316,46.934917975494955,35,Complexidade Sintática
+third_person_possessive_pronouns,third_person_possessive_pronouns,10.581948754432897,70.55661245875376,35,Informações Morfossintáticas de Palavras
+negative_words,negative_words,-0.24605017756519568,9.959963038983348,35,Informações Morfossintáticas de Palavras
+positive_words,positive_words,0.23069724650217438,6.428363864973549,35,Informações Morfossintáticas de Palavras
+abstract_nouns_ratio,abstract_nouns_ratio,-0.7255416311239659,7.541509637265728,35,Informações Semânticas de Palavras
+demonstrative_pronoun_ratio,demonstrative_pronoun_ratio,4.016740554603643,23.583424646570673,35,Coesão Referencial
+coreference_pronoun_ratio,coreference_pronoun_ratio,42.595705203991585,158.8222660136574,34,Coesão Referencial
+adjective_diversity_ratio,adjective_diversity_ratio,-0.12763272237851297,1.8239407881538492,35,Diversidade Lexical
+adjectives_max,adjectives_max,0.9634590934198365,7.933170801224731,35,Informações Morfossintáticas de Palavras
+adjectives_min,adjectives_min,0.8508262494154006,20.956708559875487,35,Informações Morfossintáticas de Palavras
+adjectives_standard_deviation,adjectives_standard_deviation,1.085676216921564,7.2430253934684234,35,Informações Morfossintáticas de Palavras
+adverbs_diversity_ratio,adverbs_diversity_ratio,0.8811409848256508,9.566489301494025,35,Informações Morfossintáticas de Palavras
+adverbs_max,adverbs_max,1.3784077631656397,13.332956777086519,35,Informações Morfossintáticas de Palavras
+adverbs_min,adverbs_min,9.723982619116986,99.15736904554845,25,Informações Morfossintáticas de Palavras
+adverbs_standard_deviation,adverbs_standard_deviation,1.2479682626359245,12.272631604125529,35,Informações Morfossintáticas de Palavras
+concretude_mean,concretude_mean,0.05802219160729173,0.7733330266170787,35,Medidas Psicolinguísticas
+concretude_std,concretude_std,0.40586189167556097,4.077572186855837,35,Medidas Psicolinguísticas
+concretude_1_25_ratio,concretude_1_25_ratio,4.281212147306305,55.25088285329707,34,Medidas Psicolinguísticas
+concretude_25_4_ratio,concretude_25_4_ratio,-0.3193255821397115,2.6577317782067476,35,Medidas Psicolinguísticas
+concretude_4_55_ratio,concretude_4_55_ratio,0.8113166828869828,5.219938867082816,35,Medidas Psicolinguísticas
+concretude_55_7_ratio,concretude_55_7_ratio,24.683491701627776,110.9382475685161,35,Medidas Psicolinguísticas
+content_word_diversity,content_word_diversity,-0.1537949553815257,2.0112669654623456,35,Diversidade Lexical
+content_words_ambiguity,content_words_ambiguity,0.03203686023818581,3.9032039858313112,35,Informações Semânticas de Palavras
+content_word_max,content_word_max,0.07485388577407992,2.1536156012118526,35,Diversidade Lexical
+content_word_min,content_word_min,-0.1866035764598679,1.3742732019437047,35,Diversidade Lexical
+content_word_standard_deviation,content_word_standard_deviation,1.8171453404807079,13.739537258674867,35,Diversidade Lexical
+dalechall_adapted,dalechall_adapted,0.07051363614366883,1.5995625960733064,35,Índices de Leiturabilidade
+easy_conjunctions_ratio,easy_conjunctions_ratio,0.6280151314108876,7.921485920885145,35,Simplicidade Textual
+familiaridade_mean,familiaridade_mean,0.0256955078726492,0.5085352195449039,35,Medidas Psicolinguísticas
+familiaridade_std,familiaridade_std,0.08290282115930372,2.3064951575582766,35,Medidas Psicolinguísticas
+familiaridade_1_25_ratio,familiaridade_1_25_ratio,4.279603849155164,41.755779264076615,34,Medidas Psicolinguísticas
+familiaridade_25_4_ratio,familiaridade_25_4_ratio,0.30844269584759804,7.499716810116193,35,Medidas Psicolinguísticas
+familiaridade_4_55_ratio,familiaridade_4_55_ratio,0.013895097866603682,2.4170354379373404,35,Medidas Psicolinguísticas
+familiaridade_55_7_ratio,familiaridade_55_7_ratio,0.288049397111635,7.291583788681324,35,Medidas Psicolinguísticas
+function_word_diversity,function_word_diversity,-0.4916611654795593,4.3790225880625995,35,Diversidade Lexical
+gunning_fox,gunning_fox,0.37379809831705035,4.689266192220773,35,Índices de Leiturabilidade
+hard_conjunctions_ratio,hard_conjunctions_ratio,3.450962417156429,16.950126807189996,35,Simplicidade Textual
+idade_aquisicao_mean,idade_aquisicao_mean,-0.08208670336409864,0.6727835660427887,35,Medidas Psicolinguísticas
+idade_aquisicao_std,idade_aquisicao_std,0.14577880785316996,2.0848662570801206,35,Medidas Psicolinguísticas
+idade_aquisicao_1_25_ratio,idade_aquisicao_1_25_ratio,2.4274982706791235,17.959037797056457,35,Medidas Psicolinguísticas
+idade_aquisicao_25_4_ratio,idade_aquisicao_25_4_ratio,0.6364989762902608,6.682361199298363,35,Medidas Psicolinguísticas
+idade_aquisicao_4_55_ratio,idade_aquisicao_4_55_ratio,0.6837428100739519,5.503213993201173,35,Medidas Psicolinguísticas
+idade_aquisicao_55_7_ratio,idade_aquisicao_55_7_ratio,-0.107071538206628,4.444771789207132,35,Medidas Psicolinguísticas
+imageabilidade_mean,imageabilidade_mean,0.07866350795309522,0.7529389573716628,35,Medidas Psicolinguísticas
+imageabilidade_std,imageabilidade_std,0.46268362885001607,4.608989147758451,35,Medidas Psicolinguísticas
+imageabilidade_1_25_ratio,imageabilidade_1_25_ratio,-6.65834570599776,82.62691651577687,26,Medidas Psicolinguísticas
+imageabilidade_25_4_ratio,imageabilidade_25_4_ratio,-0.33717938815805243,3.4505710288630085,35,Medidas Psicolinguísticas
+imageabilidade_4_55_ratio,imageabilidade_4_55_ratio,0.5935659414917579,4.474255220879847,35,Medidas Psicolinguísticas
+imageabilidade_55_7_ratio,imageabilidade_55_7_ratio,22.29048219098455,91.60585856962294,35,Medidas Psicolinguísticas
+indefinite_pronoun_ratio,indefinite_pronoun_ratio,7.5093418887380965,47.106899660121286,35,Informações Morfossintáticas de Palavras
+indefinite_pronouns_diversity,indefinite_pronouns_diversity,4.105077777044148,27.43852587132773,35,Diversidade Lexical
+medium_long_sentence_ratio,medium_long_sentence_ratio,4.529578487674082,32.288451415015224,35,Simplicidade Textual
+max_noun_phrase,max_noun_phrase,1.047137529498875,8.276910188631472,35,Densidade de Padrões Sintáticos
+mean_noun_phrase,mean_noun_phrase,-0.18857008361881886,4.1650364719473965,35,Densidade de Padrões Sintáticos
+medium_short_sentence_ratio,medium_short_sentence_ratio,5.25318739528889,39.96117394213082,35,Simplicidade Textual
+min_noun_phrase,min_noun_phrase,-1.40845694486834,9.736470423553506,35,Densidade de Padrões Sintáticos
+noun_diversity,noun_diversity,-0.18031119523124767,3.1277004485270887,35,Diversidade Lexical
+nouns_max,nouns_max,0.1072208151944423,3.015736611650728,35,Informações Morfossintáticas de Palavras
+nouns_min,nouns_min,-0.3452851423966594,3.468329657756173,35,Informações Morfossintáticas de Palavras
+nouns_standard_deviation,nouns_standard_deviation,1.0112321588009612,8.47897617640289,35,Informações Morfossintáticas de Palavras
+oblique_pronouns_ratio,oblique_pronouns_ratio,11.775257502608449,76.51170603059184,34,Informações Morfossintáticas de Palavras
+preposition_diversity,preposition_diversity,-0.38099130464537223,4.424246685184309,35,Diversidade Lexical
+pronoun_diversity,pronoun_diversity,0.2312755668445621,4.664716275504525,35,Diversidade Lexical
+pronouns_max,pronouns_max,1.3321791509633825,10.339125065869261,35,Informações Morfossintáticas de Palavras
+pronouns_min,pronouns_min,5.672719455633971,40.101128229103715,35,Informações Morfossintáticas de Palavras
+pronouns_standard_deviation,pronouns_standard_deviation,1.5109425155759533,9.686149906302827,35,Informações Morfossintáticas de Palavras
+punctuation_diversity,punctuation_diversity,-0.9744956872498629,9.203834152297482,35,Diversidade Lexical
+punctuation_ratio,punctuation_ratio,0.09312927281742835,5.556366896488751,35,Informações Morfossintáticas de Palavras
+sentence_length_max,sentence_length_max,0.8940939305794511,6.212951392327043,35,Medidas Descritivas
+sentence_length_min,sentence_length_min,-0.09901190433099798,7.262246154332128,35,Medidas Descritivas
+sentence_length_standard_deviation,sentence_length_standard_deviation,2.596605730866653,14.051865484887403,35,Medidas Descritivas
+short_sentence_ratio,short_sentence_ratio,5.816111751538662,36.52589295144452,35,Simplicidade Textual
+std_noun_phrase,std_noun_phrase,0.6881601434115496,7.153566618476292,35,Complexidade Sintática
+subtitles,subtitles,,,0,Medidas Descritivas
+dialog_pronoun_ratio,dialog_pronoun_ratio,-21.391824769261547,117.71200200261337,5,Simplicidade Textual
+verb_diversity,verb_diversity,-0.06612846587302418,1.9130724336459974,35,Diversidade Lexical
+verbs_max,verbs_max,0.9615558371511875,6.300201811783939,35,Informações Morfossintáticas de Palavras
+verbs_min,verbs_min,0.24044946279370127,8.513665005152875,35,Informações Morfossintáticas de Palavras
+verbs_standard_deviation,verbs_standard_deviation,1.4914199706554445,10.183141319560752,35,Informações Morfossintáticas de Palavras
+long_sentence_ratio,long_sentence_ratio,0.15465173484781047,3.4202712139956044,35,Simplicidade Textual
+indicative_condition_ratio,indicative_condition_ratio,-8.38148711749561,100.39470376972173,26,Informações Morfossintáticas de Palavras
+indicative_future_ratio,indicative_future_ratio,45.99624959350225,192.6268481801678,35,Informações Morfossintáticas de Palavras
+indicative_imperfect_ratio,indicative_imperfect_ratio,44.11660513392537,177.8933616580175,32,Léxico Temporal
+indicative_preterite_perfect_ratio,indicative_preterite_perfect_ratio,27.065419422878488,107.84872900780793,35,Léxico Temporal
+indicative_pluperfect_ratio,indicative_pluperfect_ratio,27.823561750428922,106.53628598044592,34,Léxico Temporal
+indicative_present_ratio,indicative_present_ratio,-0.4436520792969618,5.27958955469673,35,Léxico Temporal
+infinite_subordinate_clauses,infinite_subordinate_clauses,0.7495696953274834,10.027117083305827,35,Complexidade Sintática
+named_entity_ratio_sentence,named_entity_ratio_sentence,1.4144307915313032,20.27527580202333,35,Informações Semânticas de Palavras
+named_entity_ratio_text,named_entity_ratio_text,1.2121393664185935,17.897690720018666,35,Informações Semânticas de Palavras
+non_svo_ratio,non_svo_ratio,0.7245466487538319,9.328468696195461,35,Complexidade Sintática
+postponed_subject_ratio,postponed_subject_ratio,1.5839247841457431,24.696867562590135,35,Complexidade Sintática
+relative_pronouns_ratio,relative_pronouns_ratio,3.1866289794787717,20.988280808103404,35,Informações Morfossintáticas de Palavras
+relative_pronouns_diversity_ratio,relative_pronouns_diversity_ratio,2.425466929157847,15.978853058966145,35,Diversidade Lexical
+subjunctive_future_ratio,subjunctive_future_ratio,8.828019550920866,74.95108045129537,31,Léxico Temporal
+subjunctive_imperfect_ratio,subjunctive_imperfect_ratio,-11.286077361702636,71.30701441822988,21,Léxico Temporal
+subjunctive_present_ratio,subjunctive_present_ratio,8.756543753685849,42.980492099248146,35,Léxico Temporal
+subordinate_clauses,subordinate_clauses,0.7908135105066639,7.430953775702166,35,Complexidade Sintática
+temporal_adjunct_ratio,temporal_adjunct_ratio,13.594708212565527,62.001605866773744,35,Complexidade Sintática
+adverbs_before_main_verb_ratio,adverbs_before_main_verb_ratio,2.3091535569166166,12.64564936477439,35,Complexidade Sintática
+verbal_time_moods_diversity,verbal_time_moods_diversity,2.0487629241107266,11.823265577762314,35,Léxico Temporal
+ratio_function_to_content_words,ratio_function_to_content_words,0.20848847127876147,2.486181955282528,35,Informações Morfossintáticas de Palavras
